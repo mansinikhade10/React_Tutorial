@@ -52,7 +52,7 @@ const Hero = () => {
           )}
           {activeTab === "pricing" && (
             <p className="text-gray-700">
-              Pricing starts at <strong>$49</strong> for full access.
+              Pricing starts at <strong>$99</strong> for full access.
             </p>
           )}
           {activeTab === "info" && (
