@@ -58,6 +58,7 @@ const Hero = () => {
           {activeTab === "info" && (
             <p className="text-gray-700">
               This course includes hands-on projects, certificates, and 24/7 support.
+
             </p>
           )}
         </div>
